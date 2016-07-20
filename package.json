@@ -1,0 +1,20 @@
+{
+  "name": "slackin-c4t",
+  "version": "1.0.0",
+  "description": "Slack integration app via slackin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Slack",
+    "Code",
+    "for",
+    "Tucson"
+  ],
+  "author": "Dennis Snell <dennis.snell@automattic.com>",
+  "license": "ISC",
+  "dependencies": {
+    "slackin": "0.11.3"
+  }
+}
