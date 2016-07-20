@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Slack integration app via slackin",
   "main": "index.js",
+  "repository": "https://github.com/CodeForTucson/slackit-c4t.git",
   "scripts": {
     "start": "node index.js",
     "local": "node local.js"
