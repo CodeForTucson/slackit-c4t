@@ -1,4 +1,4 @@
-var token = require( './token.js' );
+var token = process.env.SLACK_API_TOKEN || 'NEED_TOKEN';
 
 require( 'slackin' ).default( {
 	token: token,
