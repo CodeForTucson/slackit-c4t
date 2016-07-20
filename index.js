@@ -5,4 +5,4 @@ require( 'slackin' ).default( {
 	interval: 10000,
 	org: 'codefortucson',
 	silent: false
-} ).listen( 80 );
+} ).listen( 1337 );
